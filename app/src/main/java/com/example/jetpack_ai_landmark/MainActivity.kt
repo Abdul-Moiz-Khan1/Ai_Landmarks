@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Jetpack_Ai_landmarkTheme {
-              
+
             }
         }
     }
